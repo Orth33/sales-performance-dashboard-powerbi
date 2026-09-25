@@ -2,11 +2,11 @@
 
 An interactive Power BI dashboard designed to analyze sales performance, customer activity, product performance, and category-level sales.
 
-## 🚀 Dashboard Preview
+## Dashboard Preview
 
 ![Sales Dashboard](Screenshots/sales-dashboard.png)
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses Microsoft Power BI to transform sales data into an interactive business intelligence dashboard.
 
